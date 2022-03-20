@@ -1,2 +1,2 @@
 # teleDisk2.0
-Еeledisk, integrated into windows explorer
+Teledisk, integrated into windows explorer
